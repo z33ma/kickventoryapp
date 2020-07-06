@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Share to Instagram Stories
     description                           : Let the world know about your pickups, long press the shoe photo in detail view and share to you currently logged in instagram stories
-    fontawesome_icon_name                 : instagram-square
+    fontawesome_icon_name                 : camera
 
   - title                                 : Share and Airdrop
     description                           : Share via iMessage or AirDrop your latest pickup
