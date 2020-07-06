@@ -38,7 +38,7 @@ features                                  :
     description                           : All data is stored securely on device and your personal iCloud (if enabled). No data is passed outside the app
     fontawesome_icon_name                 : user-shield
     
-  - title                                 : Keep an inventory of all your pickups 
+  - title                                 : Keep an personal inventory of all your pickups 
     description                           : Add date, name, raffle and instore wins for your shoes
     fontawesome_icon_name                 : boxes
 
@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : shoe-prints
 
   - title                                 : Share to Instagram Stories
-    description                           : Let the world know about your pickups, long press the shoe photo in detail view and share to you currently logged in instagram stories
+    description                           : Let the world know about your pickups, long press the shoe photo in detail view and share to your story
     fontawesome_icon_name                 : camera
 
   - title                                 : Share and Airdrop
