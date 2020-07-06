@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Secure and Private
     description                           : Add all data stored securely on device and backed up onto your own iCloud storage. No data is passed outside 
-    fontawesome_icon_name                 : user-lock
+    fontawesome_icon_name                 : user-shield
     
   - title                                 : Keep an inventory of all your pickups 
     description                           : Add date, name, raffle and instore wins for your shoes
@@ -44,11 +44,11 @@ features                                  :
 
   - title                                 : On feet counter
     description                           : Keep a count of what you have worn, double tap the shoe phot in detail view to add it to the on feet counter
-    fontawesome_icon_name                 : sort-amount-up-alt
+    fontawesome_icon_name                 : shoe-prints
 
   - title                                 : Share to Instagram Stories
     description                           : Let the world know about your pickups, long press the shoe photo in detail view and share to you currently logged in instagram stories
-    fontawesome_icon_name                 : instagram
+    fontawesome_icon_name                 : instagram-square
 
   - title                                 : Share and Airdrop
     description                           : Share via iMessage or AirDrop your latest pickup
