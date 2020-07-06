@@ -35,23 +35,23 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Secure and Private
-    description                           : All data is stored securely on device and your personal iCloud (if enabled). No data is passed outside the app
+    description                           : All data is stored securely on device backedup on iCloud (if enabled). No data is passed outside of the app
     fontawesome_icon_name                 : user-shield
     
-  - title                                 : Keep an personal inventory of all your pickups 
-    description                           : Add date, name, raffle and instore wins for your shoes
+  - title                                 : Keep an personal inventory of all your pickups to date
+    description                           : No more rememberign when you picked up a pair, ddd date, name, raffle and instore wins for your shoes
     fontawesome_icon_name                 : boxes
 
   - title                                 : On feet counter
-    description                           : Keep a count of what you have worn, double tap the shoe phot in detail view to add it to the on feet counter
+    description                           : Keep a count of what you have worn, double tap the shoe image in detail view to add to the on feet counter
     fontawesome_icon_name                 : shoe-prints
 
-  - title                                 : Share to Instagram Stories
-    description                           : Let the world know about your pickups, long press the shoe photo in detail view and share to your story
+  - title                                 : Share on Instagram Stories
+    description                           : Let the world know about your pickups, long press the shoe photo in detail view and share that special shoe to your story
     fontawesome_icon_name                 : camera
 
-  - title                                 : Share and Airdrop
-    description                           : Share via iMessage/AirDrop or to anyof your other apps with native sharing, show the world your latest pickup
+  - title                                 : Native Sharing and Airdrop
+    description                           : Share via iMessage/AirDrop or to any other app with native sharing, show the world your latest pickup
     fontawesome_icon_name                 : share-square
   
   - title                                 : Search your inventory
@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : wallet
 
   - title                                 : iCloud Sync
-    description                           : With iCloud sync your collection can be on all of your devices. New phone? iCloud will restore your collection back just as it was. 
+    description                           : With iCloud sync your collection can be on all of your devices. New or lost phone, download the app agian and iCloud will restore your collection back just the way it was. 
     fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
