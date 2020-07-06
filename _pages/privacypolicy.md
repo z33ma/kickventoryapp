@@ -8,7 +8,7 @@ include_in_header: true
 July 1 2020
 
 # Privacy Policy
-We Collect No Personal Information!
+KickVentoryApp Collects No Personal Information!
 
 <br>
 
