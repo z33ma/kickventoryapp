@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Secure and Private
-    description                           : Add all data stored securely on device and backed up onto your own iCloud storage. No data is passed outside 
+    description                           : All data is stored securely on device and your personal iCloud (if enabled). No data is passed outside the app
     fontawesome_icon_name                 : user-shield
     
   - title                                 : Keep an inventory of all your pickups 
@@ -51,24 +51,24 @@ features                                  :
     fontawesome_icon_name                 : camera
 
   - title                                 : Share and Airdrop
-    description                           : Share via iMessage or AirDrop your latest pickup
+    description                           : Share via iMessage/AirDrop or to anyof your other apps with native sharing, show the world your latest pickup
     fontawesome_icon_name                 : share-square
   
-  - title                                 : Search you inventory
-    description                           : Search name, brand even the store you picked up from
+  - title                                 : Search your inventory
+    description                           : Search name, brand even the store you picked up from with a powerful builtin search
     fontawesome_icon_name                 : search
 
   - title                                 : Stats (Beta)
-    description                           : View stats on all your pickups, how many pairs are Dead Stock, top 5 most worn & least worn pairs 
+    description                           : View stats on all your pickups, insights on many pairs are DeadStock, your top 5 most worn & least worn pairs 
     fontawesome_icon_name                 : list
 
   - title                                 : Keep an eye on your spending
-    description                           : Easily track, your year to date spending and lifetime spenditure 
+    description                           : Easily track the money spent with year to date and lifetime totals 
     fontawesome_icon_name                 : wallet
 
-  - title                                 : # FontAwesome Support
-    description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : # info-circle
+  - title                                 : iCloud Sync
+    description                           : With iCloud sync your collection can be on all of your devices. New phone? iCloud will restore your collection back just as it was. 
+    fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
