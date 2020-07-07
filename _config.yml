@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : search
 
   - title                                 : Stats (Beta)
-    description                           : View stats on all your pickups, insights on many pairs are DeadStock & top 5 most worn & least worn pairs. 
+    description                           : View stats on all your pickups, insights on many pairs are DeadStock & top 5 most worn / least worn pairs. 
     fontawesome_icon_name                 : list
 
   - title                                 : Keep an eye on your spending
