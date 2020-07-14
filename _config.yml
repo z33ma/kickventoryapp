@@ -55,11 +55,11 @@ features                                  :
     fontawesome_icon_name                 : share-square
   
   - title                                 : Search your inventory
-    description                           : Search by name, brand or store you picked up from with a builtin powerful search.
+    description                           : Search by name, brand or store you picked up from with a powerful builtin search.
     fontawesome_icon_name                 : search
 
   - title                                 : Stats (Beta)
-    description                           : View stats on all your pickups, insights on many pairs are DeadStock & top 5 most worn / least worn pairs. 
+    description                           : View stats on all your pickups, insights on many pairs are DeadStock, top 5 most worn / least worn pairs. 
     fontawesome_icon_name                 : list
 
   - title                                 : Keep an eye on your spending
