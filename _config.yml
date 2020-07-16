@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : wallet
 
   - title                                 : iCloud Sync
-    description                           : With iCloud sync, your collection can be on all of your signed in devices. 
+    description                           : With iCloud sync, your collection will apear on all signed in devices. 
     fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
